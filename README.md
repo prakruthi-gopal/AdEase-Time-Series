@@ -1,4 +1,5 @@
 AdEase - Time Series
+
 Summary: Understand the ‘per page views’ report for different Wikipedia pages for 550 days and forecast the number of views in order to optimize the ad placement for clients.
 
 Achievements:
