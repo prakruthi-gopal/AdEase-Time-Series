@@ -4,7 +4,7 @@ Summary: Understand the ‘per page views’ report for different Wikipedia page
 
 Achievements:
 
-Utilized ARIMA, SARIMAX and prophet for forecasting the number of view for different languages
-Utilized various metrics such as MAE, MSE and MAPE to compare the performance of different models and utilized the results of comparison to forecast future performance indices. Noticably, all models had a MAPE of around 6.5%
+* Utilized ARIMA, SARIMAX and prophet for forecasting the number of view for different languages
+* Utilized various metrics such as MAE, MSE and MAPE to compare the performance of different models and utilized the results of comparison to forecast future performance indices. Noticably, all models had a MAPE of around 6.5%
 
 Tools and Techniques: ARIMA, SARIMAX, Facebook prophet, ACF, PACF plots, stationarity check, Matplotlib, Seaborn
